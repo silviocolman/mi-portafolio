@@ -14,11 +14,13 @@ Lo mismo sigue para la última página.
 ### Tecnologías utilizadas:
 
 - Swift
-- SwiftUI
-- XCode
-<img width="548" alt="p1" src="https://user-images.githubusercontent.com/11272714/229331888-d2865ec0-7ccc-4a41-b2fd-bd91833df3cd.png">
+- SwiftUI 4
+- XCode 14.3
 
-![Captura de pantalla del proyecto](ruta/a/la/imagen.png)
+
+<img width="500" alt="p1_1" src="https://user-images.githubusercontent.com/11272714/229332152-c8912a2b-5f65-47c6-ba4f-5245c271b40b.png"> <img width="500" alt="p1_2" src="https://user-images.githubusercontent.com/11272714/229332793-d78c8956-d3eb-4d71-8cde-9140d699c036.png">
+
+
 
 [Enlace a la demo o repositorio del proyecto](https://github.com/tu_usuario/tu_proyecto)
 
