@@ -16,6 +16,7 @@ Lo mismo sigue para la última página.
 - Swift
 - SwiftUI
 - XCode
+<img width="548" alt="p1" src="https://user-images.githubusercontent.com/11272714/229331888-d2865ec0-7ccc-4a41-b2fd-bd91833df3cd.png">
 
 ![Captura de pantalla del proyecto](ruta/a/la/imagen.png)
 
