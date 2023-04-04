@@ -5,10 +5,6 @@
 ## Proyecto 1: Infinite Carousel
 El proyecto en si seria una vista de pestañas infinitas de SwiftUI.
 
-La explicación de esto es sencilla, cuando un usuario intenta navegar a la primera página, inmediatamente vamos a la última página, que es una réplica de la primera página.
-
-Haciendo que parezca que hay páginas infinitas.
-
 Lo mismo sigue para la última página.
 
 ### Tecnologías utilizadas:
@@ -23,6 +19,21 @@ Lo mismo sigue para la última página.
 
 
 [Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/InfiniteCarousel)
+
+## Proyecto 2: Card Creation
+
+El proyecto en si seria una una vista de tarjeta de crédito/débito con entradas para poder rellenarlas de manera con enlace de teclado a través de FocusStatus usando SwiftUI.
+
+### Tecnologías utilizadas:
+
+- Swift
+- SwiftUI
+- Xcode 14
+
+<img width="358" alt="p2" src="https://user-images.githubusercontent.com/11272714/229864486-1fc3ad81-3b70-4609-b5ae-6d2e74c102bc.png">
+
+
+[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/CardCreation)
 
 ¡Gracias por visitar mi portafolio! Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
 ## Contacto:
