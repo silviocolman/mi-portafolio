@@ -25,7 +25,7 @@ Lo mismo sigue para la última página.
 [Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/InfiniteCarousel)
 
 ¡Gracias por visitar mi portafolio! Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
-# Contacto:
+## Contacto:
 Email: **silviorafael.colman@gmail.com**
 
 [Linkedin](www.linkedin.com/in/silvio-colmán)
