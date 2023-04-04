@@ -28,4 +28,4 @@ Lo mismo sigue para la última página.
 ## Contacto:
 Email: **silviorafael.colman@gmail.com**
 
-[Linkedin](www.linkedin.com/in/silvio-colmán)
+[Linkedin](https://www.linkedin.com/in/silviocolman/)
