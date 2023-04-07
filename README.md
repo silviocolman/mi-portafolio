@@ -10,8 +10,8 @@ Lo mismo sigue para la última página.
 ### Tecnologías utilizadas:
 
 - Swift
-- SwiftUI 4
-- XCode 14.3
+- SwiftUI 
+- XCode 14
 
 
 <img width="500" alt="p1_1" src="https://user-images.githubusercontent.com/11272714/229332152-c8912a2b-5f65-47c6-ba4f-5245c271b40b.png"> <img width="500" alt="p1_2" src="https://user-images.githubusercontent.com/11272714/229332793-d78c8956-d3eb-4d71-8cde-9140d699c036.png">
@@ -34,6 +34,22 @@ El proyecto en si seria una una vista de tarjeta de crédito/débito con entrada
 
 
 [Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/CardCreation)
+
+## Proyecto 3: Page Curl Swipe Animation
+
+El proyecto utlizo SwiftUI para crear un Deslizar para eliminiar (Swipe to delete) en forma
+de Page Curl Effect, también conocido como Peel Effect (efecto cáscara).
+
+### Tecnologías utilizadas:
+
+- Swift
+- SwiftUI
+- Xcode 14
+
+<img width="580" alt="p3" src="https://user-images.githubusercontent.com/11272714/230649766-ff1aabb4-0e97-4fa6-8452-1ecee36f4ddf.png">
+
+
+[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/PageCurlSwipeAnimation)
 
 ¡Gracias por visitar mi portafolio! Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
 ## Contacto:
