@@ -51,6 +51,22 @@ de Page Curl Effect, también conocido como Peel Effect (efecto cáscara).
 
 [Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/PageCurlSwipeAnimation)
 
+## Proyecto 4: Page Task Planner
+
+El proyecto utlizo SwiftUI para crear una elegante intefaz de usuario de la Aplicación de administración
+de tareas que resaltará las tareas actuales según la fecha y la hora actuales.
+
+### Tecnologías utilizadas:
+
+- Swift
+- SwiftUI 4
+- Xcode 14
+
+<img width="433" alt="p4" src="https://user-images.githubusercontent.com/11272714/230733455-7d553752-21b3-4505-8883-38004737007d.png">
+
+
+[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/TaskPlanner)
+
 ¡Gracias por visitar mi portafolio! Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
 ## Contacto:
 Email: **silviorafael.colman@gmail.com**
