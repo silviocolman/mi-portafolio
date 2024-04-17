@@ -67,6 +67,22 @@ de tareas que resaltará las tareas actuales según la fecha y la hora actuales.
 
 [Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/TaskPlanner)
 
+## Proyecto 5: Interactive Side Menu
+
+El proyecto utiliza SwiftUI para crear una aplicación con una interfaz de usuario dinámica que incluye un menú lateral animado y un contenido principal centrado en una lista de navegación.
+
+### Tecnologías utilizadas:
+
+- Swift
+- SwiftUI
+- Xcode 15
+
+<img width="425" alt="proyecto 5" src="https://github.com/silviocolman/mi-portafolio/assets/11272714/855c52a0-d395-49b6-9458-983125febc44">
+
+
+
+[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/AnimatedMenu)
+
 ¡Gracias por visitar mi portafolio! Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
 ## Contacto:
 Email: **silviorafael.colman@gmail.com**
