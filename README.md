@@ -78,6 +78,7 @@ El proyecto utiliza SwiftUI para crear una aplicación con una interfaz de usuar
 - Xcode 15
 - iOS 17
 
+
 <img width="425" alt="proyecto 5" src="https://github.com/silviocolman/mi-portafolio/assets/11272714/855c52a0-d395-49b6-9458-983125febc44">
 
 
@@ -94,6 +95,8 @@ El proyecto utiliza SwiftUI para crear una hermosa barra de pestañas desplazabl
 - SwiftUI
 - Xcode 15
 - iOS 17
+
+
 <img width="383" alt="Captura de pantalla 2024-04-22 a la(s) 22 44 42" src="https://github.com/silviocolman/mi-portafolio/assets/11272714/0e198713-463d-4e91-8aba-0cf1edbb04b2">
 
 
