@@ -98,10 +98,10 @@ El proyecto utiliza SwiftUI para crear una hermosa barra de pestañas desplazabl
 
 
 
-[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/AnimatedMenu)
+[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/ScrollableIndicators)
 
 ¡Gracias por visitar mi portafolio! Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
 ## Contacto:
 Email: **silviorafael.colman@gmail.com**
 
-[Linkedin](https://www.linkedin.com/in/silviocolman/ScrollableIndicators)
+[Linkedin](https://www.linkedin.com/in/silviocolman/mi-portafolio/)
