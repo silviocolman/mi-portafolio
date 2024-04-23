@@ -67,7 +67,7 @@ de tareas que resaltará las tareas actuales según la fecha y la hora actuales.
 
 [Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/TaskPlanner)
 
-## Proyecto 5: Interactive Side Menu
+## Proyecto 5: Interactive Side Menu - iOS 17
 
 El proyecto utiliza SwiftUI para crear una aplicación con una interfaz de usuario dinámica que incluye un menú lateral animado y un contenido principal centrado en una lista de navegación.
 
@@ -76,8 +76,25 @@ El proyecto utiliza SwiftUI para crear una aplicación con una interfaz de usuar
 - Swift
 - SwiftUI
 - Xcode 15
+- iOS 17
 
 <img width="425" alt="proyecto 5" src="https://github.com/silviocolman/mi-portafolio/assets/11272714/855c52a0-d395-49b6-9458-983125febc44">
+
+
+
+[Enlace a la demo o repositorio del proyecto](https://github.com/silviocolman/AnimatedMenu)
+
+## Proyecto 6: Scrollable Tab Bar - iOS 17
+
+El proyecto utiliza SwiftUI para crear una hermosa barra de pestañas desplazables con las nuevas API de iOS 17.
+
+### Tecnologías utilizadas:
+
+- Swift
+- SwiftUI
+- Xcode 15
+- iOS 17
+<img width="383" alt="Captura de pantalla 2024-04-22 a la(s) 22 44 42" src="https://github.com/silviocolman/mi-portafolio/assets/11272714/0e198713-463d-4e91-8aba-0cf1edbb04b2">
 
 
 
@@ -87,4 +104,4 @@ El proyecto utiliza SwiftUI para crear una aplicación con una interfaz de usuar
 ## Contacto:
 Email: **silviorafael.colman@gmail.com**
 
-[Linkedin](https://www.linkedin.com/in/silviocolman/)
+[Linkedin](https://www.linkedin.com/in/silviocolman/ScrollableIndicators)
